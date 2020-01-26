@@ -1,3 +1,5 @@
 class Person
-  #your code here
+  def initilize()
+    
+  end
 end
